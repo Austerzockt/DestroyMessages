@@ -1,0 +1,7 @@
+name: DestroyMessages
+version: ${project.version}
+main: io.austerzockt.destroymessages.destroymessages.DestroyMessages
+api-version: 1.16
+softdepend: [ PlaceholderAPI ]
+authors: [ Auster ]
+description: Configurable plugin that sends messages on destruction of certain blocks
